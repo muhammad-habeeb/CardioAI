@@ -203,11 +203,11 @@ http://localhost:8501
 
 Main libraries:
 
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
+streamlit-
+pandas-
+numpy-
+scikit-learn-
+joblib-
 plotly
 
 
@@ -215,12 +215,11 @@ plotly
 
 Possible future enhancements:
 
-Add more ML models (Random Forest, XGBoost)
-Model comparison dashboard
-SHAP-based explainability
-Patient history storage
-User authentication
-Cloud database integration
+Model comparison dashboard-
+SHAP-based explainability-
+Patient history storage-
+User authentication-
+Cloud database integration-
 Improved clinical risk recommendations
 
 👨‍💻 Author
