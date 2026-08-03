@@ -11,9 +11,7 @@ The project demonstrates the complete machine learning workflow, from data prepr
 
 🌐 Streamlit Application:
 
-https://cardioai-xyz.streamlit.app
-
-*(Replace the URL above with your actual Streamlit Cloud URL)*
+https://cardioai-risk.streamlit.app/
 
 ---
 
@@ -44,7 +42,7 @@ This application is developed for educational and academic purposes only. It is 
 
 ## Risk Prediction Result
 
-![Prediction Result](screenshots/result.png)
+![Prediction Result](screenshots/report.png)
 
 
 ---
@@ -174,7 +172,7 @@ CardioAI/
 │
 └── screenshots/
 ├── dashboard.png
-└── result.png
+└── report.png
 
 
 ---
@@ -183,7 +181,7 @@ CardioAI/
 
 ## 1. Clone Repository
 
-git clone https://github.com/yourusername/CardioAI.git
+https://github.com/muhammad-habeeb/CardioAI
 
 ## 2. Navigate to Project Folder
 
