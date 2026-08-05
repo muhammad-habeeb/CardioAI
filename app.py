@@ -317,7 +317,7 @@ def make_contribution_chart(model, input_dict):
 # Sidebar
 # ------------------------------------------------------------------
 with st.sidebar:
-    st.markdown("## ❤️ About this tool")
+    st.markdown("## 🫀 About this tool")
     st.markdown(
         """
         This app estimates **heart attack risk**
@@ -350,7 +350,7 @@ with st.sidebar:
 st.markdown(
     """
     <div class="header-card">
-        <h1>❤️ Heart Attack Risk Predictor</h1>
+        <h1>🫀 Heart Attack Risk Predictor</h1>
         <p>Enter clinical measurements to estimate cardiovascular risk using machine learning.</p>
     </div>
     """,
