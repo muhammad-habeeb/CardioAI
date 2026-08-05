@@ -174,8 +174,8 @@ footer {
 
 @st.cache_resource
 def load_artifacts():
-    model = joblib.load("heart_attack_model.pkl")
-    feature_names = joblib.load("feature_names.pkl")
+    model = joblib.load("models/heart_attack_model.pkl")
+    feature_names = joblib.load("models/feature_names.pkl")
     return model, feature_names
 
 
