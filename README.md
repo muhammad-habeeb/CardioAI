@@ -1,4 +1,4 @@
-# ❤️ CardioAI - Heart Attack Risk Predictor
+# 🫀 CardioAI - Heart Attack Risk Predictor
 
 A machine learning powered cardiovascular risk prediction web application built with **Streamlit**.  
 CardioAI estimates heart attack risk probability based on patient health measurements using a trained **Logistic Regression model**.
